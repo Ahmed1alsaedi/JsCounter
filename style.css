@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 150px;
+}
+ul{
+    text-align: center;
+    list-style: none;
+}
+li{
+    display: inline;
+    
+}
+button{
+    background-color: rgb(50, 50, 99);
+    color: aliceblue;
+    border-radius: 5px;
+    
+    font-size: 30px;
+
+}
+button:hover{
+    background-color:  rgb(33, 33, 66);
+}
